@@ -1,0 +1,13 @@
+C:\dev\TW\TakeAway\TakeAway\bin\Debug\netcoreapp2.0\TakeAway.deps.json
+C:\dev\TW\TakeAway\TakeAway\bin\Debug\netcoreapp2.0\TakeAway.runtimeconfig.json
+C:\dev\TW\TakeAway\TakeAway\bin\Debug\netcoreapp2.0\TakeAway.runtimeconfig.dev.json
+C:\dev\TW\TakeAway\TakeAway\bin\Debug\netcoreapp2.0\TakeAway.dll
+C:\dev\TW\TakeAway\TakeAway\bin\Debug\netcoreapp2.0\TakeAway.pdb
+C:\dev\TW\TakeAway\TakeAway\bin\Debug\netcoreapp2.0\TakeAway.Libs.dll
+C:\dev\TW\TakeAway\TakeAway\bin\Debug\netcoreapp2.0\TakeAway.Libs.pdb
+C:\dev\TW\TakeAway\TakeAway\obj\Debug\netcoreapp2.0\TakeAway.csprojResolveAssemblyReference.cache
+C:\dev\TW\TakeAway\TakeAway\obj\Debug\netcoreapp2.0\TakeAway.csproj.CoreCompileInputs.cache
+C:\dev\TW\TakeAway\TakeAway\obj\Debug\netcoreapp2.0\TakeAway.AssemblyInfoInputs.cache
+C:\dev\TW\TakeAway\TakeAway\obj\Debug\netcoreapp2.0\TakeAway.AssemblyInfo.cs
+C:\dev\TW\TakeAway\TakeAway\obj\Debug\netcoreapp2.0\TakeAway.dll
+C:\dev\TW\TakeAway\TakeAway\obj\Debug\netcoreapp2.0\TakeAway.pdb

@@ -1,0 +1,11 @@
+C:\dev\TW\TakeAway\TakeAway.Libs\bin\Debug\netcoreapp2.0\TakeAway.Libs.deps.json
+C:\dev\TW\TakeAway\TakeAway.Libs\bin\Debug\netcoreapp2.0\TakeAway.Libs.dll
+C:\dev\TW\TakeAway\TakeAway.Libs\bin\Debug\netcoreapp2.0\TakeAway.Libs.pdb
+C:\dev\TW\TakeAway\TakeAway.Libs\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\dev\TW\TakeAway\TakeAway.Libs\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\dev\TW\TakeAway\TakeAway.Libs\obj\Debug\netcoreapp2.0\TakeAway.Libs.csproj.CoreCompileInputs.cache
+C:\dev\TW\TakeAway\TakeAway.Libs\obj\Debug\netcoreapp2.0\TakeAway.Libs.AssemblyInfoInputs.cache
+C:\dev\TW\TakeAway\TakeAway.Libs\obj\Debug\netcoreapp2.0\TakeAway.Libs.AssemblyInfo.cs
+C:\dev\TW\TakeAway\TakeAway.Libs\obj\Debug\netcoreapp2.0\TakeAway.Libs.dll
+C:\dev\TW\TakeAway\TakeAway.Libs\obj\Debug\netcoreapp2.0\TakeAway.Libs.pdb
+C:\dev\TW\TakeAway\TakeAway.Libs\obj\Debug\netcoreapp2.0\TakeAway.Libs.csprojResolveAssemblyReference.cache
